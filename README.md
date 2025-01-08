@@ -1,8 +1,8 @@
 # Business Summary: Maven Toys Sales Analysis
 ![Alt text](revenue_dashboard.png)
 
-## Company Name: Maven Toys
-## Report Objective: To analyze revenue trends for weekdays and weekends, identify monthly performance trends, and determine the top-performing product.
+**Company Name:** Maven Toys
+**Report Objective:** To analyze revenue trends for weekdays and weekends, identify monthly performance trends, and determine the top-performing product.
 
 ## Executive Summary
 
@@ -18,7 +18,7 @@ This report provides insights into Maven Toys' sales data, focusing on revenue g
  - **Weekdays:** $160K (62% of total revenue)
  - **Weekends:** $99K (38% of total revenue)
  - **Insight:** The majority of sales occur during weekdays, indicating higher customer engagement during working days.
- - 
+   
 **2. Monthly Revenue Trends:**
  - Sales tends to increase in December citing December 2017 as an example.
  - Sales also appear to dip in August.
