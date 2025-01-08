@@ -1,5 +1,5 @@
 # Business Summary: Maven Toys Sales Analysis
-![Alt text](revenue_dashboard.png)
+![Alt text](sales.png)
 
 **Company Name:** Maven Toys
 
