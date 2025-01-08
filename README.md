@@ -32,8 +32,10 @@ This report provides insights into Maven Toys' sales data, focusing on revenue g
 ## Recommendations
 **1. Focus on Weekend Promotions:**
  - Leverage weekday sales by offering targeted discounts or campaigns to boost revenue further during these high-performing days.
+   
 **2. Maximize Holiday Season Sales:**
  - Increase stock and marketing efforts for top products like the “Lego Bricks” during December to capitalize on the holiday shopping spree.
+   
 **3. Boost Underperforming Products:**
  - Investigate why products like “Uno Card Game” underperform and implement targeted campaigns or redesigns to improve sales.
 
