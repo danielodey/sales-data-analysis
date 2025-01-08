@@ -29,6 +29,9 @@ This report provides insights into Maven Toys' sales data, focusing on revenue g
  - The second-best product, “Colorbuds” contributed $28K (11%).
  - The least popular product, “Magic Sand” generated $17K (7%).
 
+## Dashboard
+![Alt text](revenue_dashboard.png)
+
 ## Recommendations
 **1. Focus on Weekend Promotions:**
  - Leverage weekday sales by offering targeted discounts or campaigns to boost revenue further during these high-performing days.
