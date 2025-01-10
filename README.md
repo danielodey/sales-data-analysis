@@ -30,7 +30,7 @@ This report provides insights into Maven Toys' sales data, focusing on revenue g
  - The least popular product, “Magic Sand” generated $17K (7%).
 
 ## Dashboard
-![Alt text](revenue_dashboard.png)
+![Alt text](dashboard.png)
 
 ## Recommendations
 **1. Focus on Weekend Promotions:**
